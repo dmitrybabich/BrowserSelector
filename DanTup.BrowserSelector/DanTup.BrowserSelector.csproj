@@ -71,7 +71,7 @@
     </EmbeddedResource>
     <None Include="App.config" />
     <EmbeddedResource Include="BrowserSelector.ini">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
